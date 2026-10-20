@@ -5,7 +5,7 @@
 
   <br />
 
-  <h2>Hey, I'm Febry 👋</h2>
+  <h2>Hello There!, I'm Febry 🚬</h2>
 
   <p>
     <code>Full-Stack Developer</code> · <code>AI Builder</code>
@@ -30,45 +30,7 @@
     <img src="https://img.shields.io/badge/X-0B0E14?style=flat-square&logo=x&logoColor=E2E8F0" alt="X" />
   </a>
 
-</div>
 
----
-
-### 🛠️ &nbsp; Tech Stack
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,laravel,php,flutter,mysql,supabase,tailwind&theme=dark" alt="Tech Stack" />
-
-</div>
-
----
-
-### 🚀 &nbsp; Featured Project
-
-<table>
-  <tr>
-    <td width="100%">
-      <strong>🤖 ITZ AI</strong>
-      <br /><br />
-      An AI chatbot project focused on knowledge retrieval and useful conversational experiences.
-      <br /><br />
-      <code>Next.js</code> <code>React</code> <code>Supabase</code> <code>RAG</code>
-      <br /><br />
-      <a href="https://itzfebryhcx.my.id">↗ Explore Portfolio</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎯 &nbsp; Currently Exploring
-
-- 🧠 AI engineering & RAG pipelines
-- ⚙️ Clean architecture & performance
-- 💡 Turning ideas into real products
-
-<br />
 
 <div align="center">
 
