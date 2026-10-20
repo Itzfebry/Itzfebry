@@ -3,7 +3,7 @@
   <!-- Banner -->
   <img src="assets/header.jpg" width="100%" alt="Banner profil Mochammad Ginata Febryansyah"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- Hero -->
   <table align="center">
@@ -16,13 +16,11 @@
     </tr>
   </table>
 
-  
-
   <!-- Tagline -->
   <table align="center">
     <tr>
       <td align="center">
-        <p style="margin: 0; line-height: 2;">
+        <p style="margin: 0; line-height: 1.6;">
           Web · Mobile · Design<br/>
           Open Job &amp; Projects | Backend / Frontend Dev
         </p>
@@ -30,13 +28,13 @@
     </tr>
   </table>
 
-  <br/><br/>
+  <br/>
 
   <!-- Stack -->
   <table align="center">
     <tr>
       <td align="center">
-        <p style="margin: 0 0 14px 0; font-size: 0.85rem; font-weight: 700; letter-spacing: 3px;">01 / STACK</p>
+        <p style="margin: 0 0 6px 0; font-size: 0.85rem; font-weight: 700; letter-spacing: 3px;">01 / STACK</p>
       </td>
     </tr>
   </table>
@@ -60,35 +58,35 @@
     </tr>
   </table>
 
-  <br/><br/>
+  <br/>
 
   <!-- Contact -->
   <table align="center">
     <tr>
       <td align="center">
-        <p style="margin: 0 0 14px 0; font-size: 0.85rem; font-weight: 700; letter-spacing: 3px;">02 / CONTACT</p>
+        <p style="margin: 0 0 6px 0; font-size: 0.85rem; font-weight: 700; letter-spacing: 3px;">02 / CONTACT</p>
       </td>
     </tr>
   </table>
 
   <table align="center">
     <tr>
-      <td align="center" style="padding: 4px;">
+      <td align="center" style="padding: 2px;">
         <a href="mailto:mgfebryansyah23@gmail.com">
           <img src="https://img.shields.io/badge/EMAIL-0B0E14?style=for-the-badge&logo=gmail&logoColor=C6D6E9"/>
         </a>
       </td>
-      <td align="center" style="padding: 4px;">
+      <td align="center" style="padding: 2px;">
         <a href="https://itzfebryhcx.my.id">
           <img src="https://img.shields.io/badge/PORTFOLIO-0B0E14?style=for-the-badge&logo=googlechrome&logoColor=C6D6E9"/>
         </a>
       </td>
-      <td align="center" style="padding: 4px;">
+      <td align="center" style="padding: 2px;">
         <a href="https://www.linkedin.com/in/mochammad-ginata-febryansyah-29708337a/">
           <img src="https://img.shields.io/badge/LINKEDIN-0B0E14?style=for-the-badge&logo=linkedin&logoColor=C6D6E9"/>
         </a>
       </td>
-      <td align="center" style="padding: 4px;">
+      <td align="center" style="padding: 2px;">
         <a href="https://x.com/f3bryy23">
           <img src="https://img.shields.io/badge/X-0B0E14?style=for-the-badge&logo=x&logoColor=C6D6E9"/>
         </a>
@@ -96,7 +94,7 @@
     </tr>
   </table>
 
-  <br/><br/>
+  <br/>
 
   <!-- Footer -->
   <table align="center">
