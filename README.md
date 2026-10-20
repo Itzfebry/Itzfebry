@@ -3,33 +3,7 @@
   <!-- Banner -->
   <img src="assets/header.jpg" width="100%" alt="Banner profil Mochammad Ginata Febryansyah"/>
 
-  <br/>
-
-  <!-- Hero -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <h2 style="margin: 0; letter-spacing: 1px;">Mochammad Ginata Febryansyah</h2>
-        <p style="margin: 6px 0 0 0; font-weight: 600;">Fullstack Developer</p>
-        <p style="margin: 2px 0 0 0; font-size: 0.85rem; opacity: 0.85;">Bondowoso · Indonesia</p>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Tagline -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <p style="margin: 0; line-height: 1.6;">
-          Web · Mobile · Design<br/>
-          Open Job &amp; Projects | Backend / Frontend Dev
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
+ 
   <!-- Stack -->
   <table align="center">
     <tr>
