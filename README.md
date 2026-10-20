@@ -11,6 +11,7 @@
 
 
 <sub>Open Job & Projects | Backend / Frontend Dev</sub>
+<br />
 <sub>✦ &nbsp;0 1&nbsp; / &nbsp;S T A C K</sub>
 
 <br />
@@ -24,20 +25,13 @@
 ![Supabase](https://img.shields.io/badge/Supabase-0B0E14?style=flat-square&logo=supabase&logoColor=C6D6E9)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0E14?style=flat-square&logo=tailwindcss&logoColor=C6D6E9)
 
-<br />
-<br />
-
 <sub>✦ &nbsp;0 2&nbsp; / &nbsp;C O N T A C T</sub>
-
-<br />
-<br />
 
 [![Email](https://img.shields.io/badge/EMAIL-0B0E14?style=flat-square&logo=gmail&logoColor=C6D6E9)](mailto:mgfebryansyah23@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0E14?style=flat-square&logo=googlechrome&logoColor=C6D6E9)](https://itzfebryhcx.my.id)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0E14?style=flat-square&logo=linkedin&logoColor=C6D6E9)](https://www.linkedin.com/in/mochammad-ginata-febryansyah-29708337a/)
 [![X](https://img.shields.io/badge/X-0B0E14?style=flat-square&logo=x&logoColor=C6D6E9)](https://x.com/f3bryy23)
 
-<br />
 <br />
 
 <sub>M G F</sub>
