@@ -1,82 +1,63 @@
+
 <div align="center">
 
-  <!-- Banner -->
-  <img src="assets/header.jpg" width="100%" alt="Banner profil Mochammad Ginata Febryansyah"/>
+  <img src="assets/header.jpg" width="100%" alt="Mochammad Ginata Febryansyah" />
 
- 
-  <!-- Stack -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <p style="margin: 0 0 6px 0; font-size: 0.85rem; font-weight: 700; letter-spacing: 3px;">01 / STACK</p>
-      </td>
-    </tr>
-  </table>
+  <br />
 
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Next.js-0B0E14?style=for-the-badge&logo=nextdotjs&logoColor=C6D6E9"/>
-        <img src="https://img.shields.io/badge/TypeScript-0B0E14?style=for-the-badge&logo=typescript&logoColor=C6D6E9"/>
-        <img src="https://img.shields.io/badge/Laravel-0B0E14?style=for-the-badge&logo=laravel&logoColor=C6D6E9"/>
-        <img src="https://img.shields.io/badge/PHP-0B0E14?style=for-the-badge&logo=php&logoColor=C6D6E9"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Flutter-0B0E14?style=for-the-badge&logo=flutter&logoColor=C6D6E9"/>
-        <img src="https://img.shields.io/badge/MySQL-0B0E14?style=for-the-badge&logo=mysql&logoColor=C6D6E9"/>
-        <img src="https://img.shields.io/badge/Supabase-0B0E14?style=for-the-badge&logo=supabase&logoColor=C6D6E9"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0B0E14?style=for-the-badge&logo=tailwindcss&logoColor=C6D6E9"/>
-      </td>
-    </tr>
-  </table>
+  # Mochammad Ginata Febryansyah
 
-  <br/>
+  **Full-Stack Developer · AI Builder**
 
-  <!-- Contact -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <p style="margin: 0 0 6px 0; font-size: 0.85rem; font-weight: 700; letter-spacing: 3px;">02 / CONTACT</p>
-      </td>
-    </tr>
-  </table>
+  Building web applications, exploring AI systems, and turning ideas into useful products.
 
-  <table align="center">
-    <tr>
-      <td align="center" style="padding: 2px;">
-        <a href="mailto:mgfebryansyah23@gmail.com">
-          <img src="https://img.shields.io/badge/EMAIL-0B0E14?style=for-the-badge&logo=gmail&logoColor=C6D6E9"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 2px;">
-        <a href="https://itzfebryhcx.my.id">
-          <img src="https://img.shields.io/badge/PORTFOLIO-0B0E14?style=for-the-badge&logo=googlechrome&logoColor=C6D6E9"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 2px;">
-        <a href="https://www.linkedin.com/in/mochammad-ginata-febryansyah-29708337a/">
-          <img src="https://img.shields.io/badge/LINKEDIN-0B0E14?style=for-the-badge&logo=linkedin&logoColor=C6D6E9"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 2px;">
-        <a href="https://x.com/f3bryy23">
-          <img src="https://img.shields.io/badge/X-0B0E14?style=for-the-badge&logo=x&logoColor=C6D6E9"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://itzfebryhcx.my.id">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mgfebryansyah23@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mochammad-ginata-febryansyah-29708337a/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/f3bryy23">X</a>
 
-  <br/>
+</div>
 
-  <!-- Footer -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <p style="margin: 0; font-size: 1rem; letter-spacing: 4px; opacity: 0.9;">M G F</p>
-      </td>
-    </tr>
-  </table>
+---
+
+### 01 / Technology Stack
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Next.js-0B0E14?style=flat-square&logo=nextdotjs&logoColor=E2E8F0" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=E2E8F0" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Laravel-0B0E14?style=flat-square&logo=laravel&logoColor=E2E8F0" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-0B0E14?style=flat-square&logo=php&logoColor=E2E8F0" alt="PHP" />
+  <img src="https://img.shields.io/badge/Flutter-0B0E14?style=flat-square&logo=flutter&logoColor=E2E8F0" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MySQL-0B0E14?style=flat-square&logo=mysql&logoColor=E2E8F0" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-0B0E14?style=flat-square&logo=supabase&logoColor=E2E8F0" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B0E14?style=flat-square&logo=tailwindcss&logoColor=E2E8F0" alt="Tailwind CSS" />
+
+</div>
+
+### 02 / Featured Project
+
+**ITZ AI**
+
+An AI chatbot project focused on building a more useful, knowledge-driven conversational experience.
+
+- **Frontend:** Next.js & React
+- **Knowledge Retrieval:** RAG, embeddings & pgvector
+- **Infrastructure:** Supabase & AI model APIs
+
+### 03 / Current Focus
+
+- Building practical web applications.
+- Exploring AI engineering and RAG pipelines.
+- Improving software architecture, code quality, and performance.
+
+---
+
+<div align="center">
+
+  <sub>MOCHAMMAD GINATA FEBRYANSYAH · BUILDING IN PUBLIC</sub>
 
 </div>
