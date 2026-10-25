@@ -7,11 +7,7 @@
 
   # Mochammad Ginata Febryansyah ༄
 
-<<<<<<< HEAD
-  **Full-Stack Developer · Web & Mobile Developer**
-=======
-  **|Full-Stack Developer · Web & Mobile Developer · AI Enthusiast|**
->>>>>>> ca8bfd67ff3e380566d847a7fce9acaf8d1604c2
+  **Full-Stack Developer · Web & Mobile Developer · AI Enthusiast**
 
   Building applications, exploring AI systems, and turning ideas into useful products.
 
@@ -51,6 +47,6 @@
 
 <div align="center">
 
-  <sub>MGF·2026 </sub>
+  <sub>MGF · 2026</sub>
 
 </div>
