@@ -1,13 +1,13 @@
 
 <div align="center">
 
-  <img src="assets/header.jpg" width="100%" alt="Mochammad Ginata Febryansyah" />
+  <img src="assets/header1.jpg" width="100%" alt="Mochammad Ginata Febryansyah" />
 
   <br />
 
   # Mochammad Ginata Febryansyah
 
-  **Full-Stack Developer · Web & Mobile Developer · AI Enthusiast**
+  **Full-Stack Developer · Web & Mobile Developer**
 
   Building applications, exploring AI systems, and turning ideas into useful products.
 
