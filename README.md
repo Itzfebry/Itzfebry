@@ -5,7 +5,7 @@
 
   <br />
 
-  # Mochammad Ginata Febryansyah ⚛
+  # Mochammad Ginata Febryansyah ༄
 
   **|Full-Stack Developer · Web & Mobile Developer · AI Enthusiast|**
 
