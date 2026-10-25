@@ -5,9 +5,9 @@
 
   <br />
 
-  # Mochammad Ginata Febryansyah
+  # Mochammad Ginata Febryansyah ⚛
 
-  **Full-Stack Developer · Web & Mobile Developer · AI Enthusiast**
+  **|Full-Stack Developer · Web & Mobile Developer · AI Enthusiast|**
 
   Building applications, exploring AI systems, and turning ideas into useful products.
 
