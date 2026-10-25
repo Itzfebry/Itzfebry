@@ -7,25 +7,23 @@
 
   # Mochammad Ginata Febryansyah
 
-  **Full-Stack Developer · AI Builder**
+  **Full-Stack Developer · Web & Mobile Developer · AI Enthusiast**
 
-  Building web applications, exploring AI systems, and turning ideas into useful products.
+  Building applications, exploring AI systems, and turning ideas into useful products.
 
-  <a href="https://itzfebryhcx.my.id">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:mgfebryansyah23@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mochammad-ginata-febryansyah-29708337a/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/f3bryy23">X</a>
+  <a href="https://itzfebryhcx.my.id"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=for-the-badge&logo=aboutdotme&logoColor=E2E8F0" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="mailto:mgfebryansyah23@gmail.com"><img src="https://img.shields.io/badge/Email-0B0E14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mochammad-ginata-febryansyah-29708337a/"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://x.com/f3bryy23"><img src="https://img.shields.io/badge/X-0B0E14?style=for-the-badge&logo=x&logoColor=E2E8F0" alt="X" /></a>
 
 </div>
 
 ---
 
 ### 01 / Technology Stack
-
-<div align="center">
 
 | <sub>**LANGUAGES**</sub> | <img src="https://img.shields.io/badge/TypeScript-0B0E14?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-0B0E14?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/PHP-0B0E14?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" /> <img src="https://img.shields.io/badge/Dart-0B0E14?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" /> |
 |:---|:---|
@@ -39,8 +37,6 @@
 | <sub>**AI / LLM**</sub> | <img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain" /> <img src="https://img.shields.io/badge/RAG-0B0E14?style=flat-square&logo=openai&logoColor=412991" alt="RAG" /> <img src="https://img.shields.io/badge/Vector_DB-0B0E14?style=flat-square" alt="Vector DB" /> |
 |:---|:---|
 
-</div>
-
 ### 02 / Current Focus
 
 - Building practical web applications.
@@ -51,6 +47,6 @@
 
 <div align="center">
 
-  <sub>MOCHAMMAD GINATA FEBRYANSYAH · BUILDING IN PUBLIC</sub>
+  <sub>MGF·2026 </sub>
 
 </div>
